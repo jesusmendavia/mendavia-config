@@ -1,0 +1,113 @@
+{
+  "cartas": [
+    {
+      "id": "clima_muy_frio",
+      "nombre": "Muy frío",
+      "rareza": "comun",
+      "desbloqueo": "ver_muy_frio_5_veces",
+      "imagen": "fondo_frio"
+    },
+    {
+      "id": "clima_lluvia",
+      "nombre": "Lluvia",
+      "rareza": "comun",
+      "desbloqueo": "ver_lluvia_5_veces",
+      "imagen": "fondo_lluvia"
+    },
+    {
+      "id": "clima_uv_extremo",
+      "nombre": "UV Extremo",
+      "rareza": "raro",
+      "desbloqueo": "ver_uv_extremo_3_veces",
+      "imagen": "fondo_uv"
+    },
+    {
+      "id": "fiestas",
+      "nombre": "Fiestas de Mendavia",
+      "rareza": "epico",
+      "desbloqueo": "abrir_en_fiestas",
+      "imagen": "fondo_fiestas"
+    }
+  ],
+
+  "stickers": [
+    {
+      "id": "sol",
+      "nombre": "Sol",
+      "rareza": "comun",
+      "desbloqueo": "ver_calor_5_veces"
+    },
+    {
+      "id": "gota",
+      "nombre": "Gota de lluvia",
+      "rareza": "comun",
+      "desbloqueo": "ver_lluvia_10_veces"
+    },
+    {
+      "id": "uva",
+      "nombre": "Uva de vendimia",
+      "rareza": "raro",
+      "desbloqueo": "evento_vendimia"
+    },
+    {
+      "id": "fuego",
+      "nombre": "Fuego festivo",
+      "rareza": "epico",
+      "desbloqueo": "abrir_en_fiestas"
+    }
+  ],
+
+  "fondos_especiales": [
+    {
+      "id": "playa_dorado",
+      "nombre": "Playa Dorado",
+      "rareza": "epico",
+      "desbloqueo": "ver_muy_calor_10_veces",
+      "base": "fondo_playa",
+      "filtro": "dorado"
+    },
+    {
+      "id": "lluvia_retro",
+      "nombre": "Lluvia Retro",
+      "rareza": "raro",
+      "desbloqueo": "ver_lluvia_15_veces",
+      "base": "fondo_lluvia",
+      "filtro": "retro"
+    },
+    {
+      "id": "fiestas_premium",
+      "nombre": "Fiestas Premium",
+      "rareza": "legendario",
+      "desbloqueo": "abrir_todos_los_dias_de_fiestas",
+      "base": "fondo_fiestas",
+      "filtro": "brillo"
+    }
+  ],
+
+  "insignias": [
+    {
+      "id": "veterano",
+      "nombre": "Veterano",
+      "rareza": "comun",
+      "desbloqueo": "abrir_50_veces"
+    },
+    {
+      "id": "fiestero",
+      "nombre": "Fiestero",
+      "rareza": "raro",
+      "desbloqueo": "abrir_en_3_fiestas_distintas"
+    },
+    {
+      "id": "playero",
+      "nombre": "Playero",
+      "rareza": "epico",
+      "desbloqueo": "ver_fondo_playa_20_veces"
+    },
+    {
+      "id": "leyenda",
+      "nombre": "Leyenda Mendaviesa",
+      "rareza": "legendario",
+      "desbloqueo": "abrir_365_veces"
+    }
+  ]
+}
