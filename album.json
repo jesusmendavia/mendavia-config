@@ -1,0 +1,59 @@
+{
+  "categorias": [
+    {
+      "id": "cartas",
+      "nombre": "Cartas",
+      "icono": "icono_cartas",
+      "descripcion": "Colecciona cartas de clima, fiestas y eventos.",
+      "orden": 1
+    },
+    {
+      "id": "stickers",
+      "nombre": "Stickers",
+      "icono": "icono_stickers",
+      "descripcion": "Pequeños iconos desbloqueables según el clima y eventos.",
+      "orden": 2
+    },
+    {
+      "id": "fondos_especiales",
+      "nombre": "Fondos especiales",
+      "icono": "icono_fondos",
+      "descripcion": "Fondos premium generados a partir de los que ya tienes.",
+      "orden": 3
+    },
+    {
+      "id": "insignias",
+      "nombre": "Insignias",
+      "icono": "icono_insignias",
+      "descripcion": "Insignias que representan tus logros en la app.",
+      "orden": 4
+    }
+  ],
+
+  "rareza": {
+    "comun": {
+      "color": "#B0BEC5",
+      "nombre": "Común"
+    },
+    "raro": {
+      "color": "#4FC3F7",
+      "nombre": "Raro"
+    },
+    "epico": {
+      "color": "#BA68C8",
+      "nombre": "Épico"
+    },
+    "legendario": {
+      "color": "#FFD54F",
+      "nombre": "Legendario"
+    }
+  },
+
+  "textos": {
+    "no_desbloqueado": "Aún no desbloqueado",
+    "desbloqueado": "Desbloqueado",
+    "progreso": "Progreso",
+    "faltan": "Faltan",
+    "coleccion": "Colección"
+  }
+}
