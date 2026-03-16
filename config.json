@@ -1,0 +1,128 @@
+{
+  "frases": {
+    "muy_frio": [
+      "Hace un frío que pela.",
+      "Hoy Mendavia parece Siberia.",
+      "Abrígate bien, que rasca."
+    ],
+    "frio": [
+      "Hace fresquico, pero se aguanta.",
+      "Frío normalico, del de toda la vida."
+    ],
+    "templado": [
+      "Día majo, para andar un rato.",
+      "Hoy Mendavia está de postal."
+    ],
+    "calor": [
+      "Hace calorcico, pero se lleva.",
+      "Hoy toca sombra y agua."
+    ],
+    "muy_calor": [
+      "Hace un calor del carajo.",
+      "Hoy te fríes como un huevo."
+    ],
+    "lluvia": [
+      "Está cayendo una buena.",
+      "Hoy toca paraguas sí o sí."
+    ],
+    "uv": [
+      "Ponte crema, que luego arde.",
+      "El sol pega fuerte hoy."
+    ],
+    "uv_extremo": [
+      "Esto ya no es sol, es un soplete.",
+      "Hoy te quemas solo con mirar."
+    ],
+    "fiestas": [
+      "¡Aúpa Mendavia!",
+      "Hoy se lía, fijo.",
+      "Ambiente festivo por aquí."
+    ],
+    "alertas": {
+      "lluvia_fuerte": [
+        "Está cayendo la del pulpo.",
+        "Hoy no sales sin barca."
+      ],
+      "calor_extremo": [
+        "Esto es un horno industrial.",
+        "Ni los lagartos aguantan esto."
+      ]
+    }
+  },
+
+  "fondos": {
+    "muy_frio": "fondo_frio",
+    "frio": "fondo_frio",
+    "templado": "fondo_templado",
+    "calor": "fondo_calor",
+    "muy_calor": "fondo_playa",
+    "lluvia": "fondo_lluvia",
+    "uv": "fondo_uv",
+    "uv_extremo": "fondo_uv",
+    "fiestas": "fondo_fiestas"
+  },
+
+  "eventos": [
+    {
+      "id": "navidad",
+      "nombre": "Navidad",
+      "inicio": "2026-12-20",
+      "fin": "2027-01-07",
+      "fondo": "fondo_navidad",
+      "frases": [
+        "¡Felices fiestas desde Mendavia!",
+        "Ambiente navideño por aquí."
+      ]
+    },
+    {
+      "id": "vendimia",
+      "nombre": "Vendimia",
+      "inicio": "2026-09-10",
+      "fin": "2026-09-20",
+      "fondo": "fondo_vendimia",
+      "frases": [
+        "¡Época de vendimia en Mendavia!",
+        "Huele a uva por todos lados."
+      ]
+    }
+  ],
+
+  "mensajes_especiales": [
+    {
+      "fecha": "2026-04-15",
+      "mensaje": "¡Feliz cumpleaños, Mendavia!"
+    }
+  ],
+
+  "tema": {
+    "modo": "auto",
+    "forzar": "",
+    "oscuro": {
+      "activar_automatico": true,
+      "hora_inicio": "21:00",
+      "hora_fin": "07:00"
+    },
+    "verano": {
+      "activar_por_temperatura": true,
+      "umbral": 30
+    },
+    "invierno": {
+      "activar_por_temperatura": true,
+      "umbral": 10
+    },
+    "fiestas": {
+      "usar_tema_fiestas": true
+    },
+    "eventos": {
+      "usar_tema_eventos": true
+    }
+  },
+
+  "notificaciones": {
+    "activar": true,
+    "hora": "10:00",
+    "permitir_alertas": true,
+    "permitir_fiestas": true,
+    "permitir_eventos": true
+  }
+}
