@@ -1,0 +1,14 @@
+{
+  "fiestas": [
+    {
+      "nombre": "Juventudes",
+      "inicio": "2026-07-12",
+      "fin": "2026-07-14"
+    },
+    {
+      "nombre": "San Juan",
+      "inicio": "2026-06-23",
+      "fin": "2026-06-24"
+    }
+  ]
+}
