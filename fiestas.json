@@ -9,6 +9,42 @@
       "nombre": "San Juan",
       "inicio": "2026-08-23",
       "fin": "2026-08-30"
+    },
+    {
+      "nombre": "San Blas",
+      "inicio": "2026-02-03",
+      "fin": "2026-02-03"
+    },
+    {
+      "nombre": "Carnavales",
+      "inicio": "2026-02-14",
+      "fin": "2026-02-17"
+    },
+    {
+      "nombre": "San Isidro",
+      "inicio": "2026-05-15",
+      "fin": "2026-05-15"
+    },
+    {
+      "nombre": "San Roque",
+      "inicio": "2026-08-16",
+      "fin": "2026-08-16"
+    },
+    {
+      "nombre": "Navidad",
+      "inicio": "2026-12-25",
+      "fin": "2026-12-25"
+    },
+    {
+      "nombre": "Nochevieja",
+      "inicio": "2026-12-31",
+      "fin": "2026-12-31"
+    },
+    {
+      "nombre": "Año Nuevo",
+      "inicio": "2026-01-01",
+      "fin": "2026-01-01"
     }
   ]
 }
+
